@@ -1,9 +1,6 @@
-# CURRENS
-Multi-Purpose Universal Latin Text Cleaner and Normaliser
-
 PURPOSE AND MODULES
 
-CURRENS is a custom written program that addresses the issue of having to deal with orthographically not-unified Latin texts.
+This is a custom written program that addresses the issue of having to deal with orthographically not-unified Latin texts.
 The program includes 4 main modules that address different issues.
 
 - General module
